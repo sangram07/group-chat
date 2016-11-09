@@ -1,7 +1,7 @@
 {
   "name": "groupo-chat",
   "scripts": {
-    "start": "node index.js"
+    "start": "node install, node index.js"
   },
   "version": "0.0.1",
   "description": "my first socket.io app",
