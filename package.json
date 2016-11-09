@@ -3,10 +3,14 @@
   "scripts": {
     "start": "node index.js"
   },
-  "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.4.5"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sangram07/group-chat.git"
+},
+"license": "Apache-2.0"
 }
