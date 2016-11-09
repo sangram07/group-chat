@@ -1,8 +1,8 @@
 {
   "name": "socket-chat-example",
   "scripts": {
-  "start": "node index.js"
-}
+    "start": "node index.js"
+  },
   "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
