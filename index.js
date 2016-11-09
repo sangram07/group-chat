@@ -15,6 +15,6 @@ io.on('connection', function(socket){
 });
 io.emit('some event', { for: 'everyone' });
 http.listen(300, function(){
-  console.log('listening on *:300');
+  //console.log('listening on *:300');
 });
 
