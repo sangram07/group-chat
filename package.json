@@ -5,12 +5,12 @@
   },
   "description": "my first socket.io app",
   "dependencies": {
-    "express": "^4.10.2",
-    "socket.io": "^1.4.5"
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/sangram07/group-chat.git"
-},
-"license": "Apache-2.0"
+    "type": "git",
+    "url": "https://github.com/sangram07/group-chat.git"
+  },
+  "license": "Apache-2.0"
 }
