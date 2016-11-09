@@ -14,7 +14,8 @@ io.on('connection', function(socket){
   });
 });
 io.emit('some event', { for: 'everyone' });
-http.listen(300, function(){
+var port = process.env.PORT || 3000;
+http.listen(port, function(){
   //console.log('listening on *:300');
 });
 
