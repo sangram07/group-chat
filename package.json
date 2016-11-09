@@ -1,5 +1,5 @@
 {
-  "name": "socket-chat-example",
+  "name": "groupo-chat",
   "scripts": {
     "start": "node index.js"
   },
